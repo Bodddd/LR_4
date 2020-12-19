@@ -1,0 +1,16 @@
+﻿#LR_4
+
+
+# ignore all files a
+*.a
+
+# ignore all txt files
+/*.txt
+
+!lib.a
+
+#ignore files TODO
+/TODO
+
+#ignore all files in build
+build/
